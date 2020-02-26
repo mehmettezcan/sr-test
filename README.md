@@ -1,6 +1,6 @@
 # sr-test
 
-## Clone the Repository
+### Clone the Repository
 ```bash
 git clone https://github.com/mehmettezcan/sr-test.git
 ```
